@@ -49,6 +49,7 @@ lib/
 │   ├── camera_screen.dart  # Camera and scanning functionality
 ├── utils/               # Utility functions
 │   ├── permission_utils.dart # Permission handling
+│   ├── gallery_utils.dart # Gallery handling
 ├── l10n/                # Localization
     ├── app_en.arb          # English strings
     ├── app_tr.arb          # Turkish strings
