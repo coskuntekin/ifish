@@ -5,7 +5,7 @@ A Flutter application for scanning and saving receipts to your device's gallery.
 ## Demo
 
 <video width="100%">
-  <source src="assets/screen-record/screen-record.webm" type="video/webm">
+  <source src="https://minijpg.com/screen-record.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
