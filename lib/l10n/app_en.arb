@@ -1,0 +1,55 @@
+{
+  "@@locale": "en",
+  "appTitle": "iFISH",
+  "@appTitle": {},
+  "scanReceipt": "Scan Receipt",
+  "@scanReceipt": {},
+  "addNewReceipt": "Add New Receipt",
+  "@addNewReceipt": {},
+  "cameraScreenTitle": "Scan Receipt",
+  "@cameraScreenTitle": {},
+  "scanning": "Scanning...",
+  "@scanning": {},
+  "tryAgain": "Try Again",
+  "@tryAgain": {},
+  "tapToScanReceipt": "Tap the button to scan a receipt",
+  "@tapToScanReceipt": {},
+  "scanButton": "Scan Receipt",
+  "@scanButton": {},
+  "imageLoadError": "Could not load image: {error}",
+  "@imageLoadError": {
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "savingReceipts": "Saving receipts...",
+  "@savingReceipts": {},
+  "scanNew": "Scan New",
+  "@scanNew": {},
+  "confirm": "Confirm",
+  "@confirm": {},
+  "receiptsSaved": "{count} receipts saved to gallery",
+  "@receiptsSaved": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "saveFailed": "Failed to save receipt",
+  "@saveFailed": {},
+  "saveFailedDetails": "Failed to save receipt. Tap for details.",
+  "@saveFailedDetails": {},
+  "errorDetails": "Error Details",
+  "@errorDetails": {},
+  "ok": "OK",
+  "@ok": {},
+  "cameraPermissionRequired": "Camera permission is required to scan receipts",
+  "@cameraPermissionRequired": {},
+  "scanningError": "Scanning error",
+  "@scanningError": {},
+  "cameraPermissionRequiredTitle": "Camera Permission Required",
+  "@cameraPermissionRequiredTitle": {},
+  "cancel": "Cancel",
+  "@cancel": {},
+  "openSettings": "Open Settings",
+  "@openSettings": {}
+}
