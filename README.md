@@ -2,6 +2,13 @@
 
 A Flutter application for scanning and saving receipts to your device's gallery. The app is localized for both English and Turkish languages.
 
+## Demo
+
+<video width="100%">
+  <source src="assets/screen-record/screen-record.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **Receipt Scanning**: Uses camera to capture and scan receipts
